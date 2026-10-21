@@ -3,9 +3,9 @@ env:
   - variable: GOOGLE_API_KEY
     secret: GEMINI_API_KEY
   - variable: CODE
-    value: "YourClassroomPassword2026!"
+    value: "DMA060Week9"
   - variable: ALLOWED_MODELS
-    value: "gemini-2.5-flash,gemini-1.5-pro"
+    value: "gemini-3.8-flash"
   - variable: HIDE_BALANCE_QUERY
     value: "1"
 
