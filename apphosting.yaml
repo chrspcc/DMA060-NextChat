@@ -8,3 +8,7 @@ env:
     value: "gemini-2.5-flash,gemini-1.5-pro"
   - variable: HIDE_BALANCE_QUERY
     value: "1"
+
+runConfig:
+  maxInstances: 3
+  minInstances: 0
